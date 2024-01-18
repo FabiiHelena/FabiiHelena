@@ -17,7 +17,7 @@
 ## Estudando
 
 <div style="display: inline_block"><br>
-  <img align="right"  alt="fabiihelena-anime" src="https://github.com/FabiiHelena/FabiiHelena/assets/94461288/8570421d-5413-4b02-9fa4-469644c8dc56" width="200px"/>
+  <img align="right"  alt="fabiihelena-anime" src="https://github.com/FabiiHelena/FabiiHelena/assets/94461288/6abc6d34-3e3a-4381-bcbf-1a20ead1415b" width="200px"/>
   <img align="center" alt="fabiihelena-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="fabiihelena-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="fabiihelena-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
