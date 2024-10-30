@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9370DB&size=20&center=true&vCenter=true&width=1000&lines=Oii,+meu+nome+é+Fabiana+Helena;Sou+formada+em+Analise+e+Desenvolvimento+de+Sistemas;Seja+Bem+Vindo!+💜)](https://git.io/typing-svg)
 
 
-- 💻 Hoje trabalho como Assistente Técnica Administrativa
+- 💻 Hoje trabalho como Analista de suporte sênior
 - 📚 Aprendendo atualmente: Java Script e TypeScript, Golang, SAP, AWS
 - 💬 Me pergunte qualquer coisa.
 - 📫 Como me encontrar: fabii.helena@hotmail.com
