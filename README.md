@@ -2,7 +2,7 @@
 
 
 - 💻 Hoje trabalho como Analista de suporte sênior
-- 📚 Aprendendo atualmente: Java Script e TypeScript, Golang, SAP, AWS
+- 📚 Aprendendo atualmente: Big Data ( ciência de dados ) Pós graduação.
 - 💬 Me pergunte qualquer coisa.
 - 📫 Como me encontrar: fabii.helena@hotmail.com
 - 😜 Fatos sobre mim: um pouco MAD (louca)
