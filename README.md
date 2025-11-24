@@ -8,14 +8,9 @@
 - 😜 Fatos sobre mim: um pouco MAD (louca)
 - 🎮 Gamer ( Jogadora de League of Legends)
 
- <div align="center">
-  <a href="https://github.com/FabiiHelena">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fabiihelena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiihelena&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+
 
 ## Estudando
-
 <div style="display: inline_block"><br>
   <img align="right"  alt="fabiihelena-anime" src="https://github.com/FabiiHelena/FabiiHelena/assets/94461288/6abc6d34-3e3a-4381-bcbf-1a20ead1415b" width="200px"/>
   <img align="center" alt="fabiihelena-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
